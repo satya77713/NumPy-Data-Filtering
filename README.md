@@ -1,6 +1,6 @@
 # NumPy-Data-Filtering
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates numerical data filtering using NumPy in Python. It uses student average marks from a CSV dataset to identify values above, below, and equal to specified thresholds.
 
@@ -89,7 +89,7 @@ print("Filtered values:", filtered_data)
 
 Boolean indexing selects only the values for which the condition evaluates to `True`.
 
-## 🔍 Filtering with Different Thresholds
+##  Filtering with Different Thresholds
 
 The notebook tests multiple thresholds, such as 40, 60, 70, and 80, to demonstrate how filtering results change.
 
